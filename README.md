@@ -1,3 +1,15 @@
+# Jhinfo
+A Application to search the information of a person by their name.
+
+## Statement
+this project only use for study and research, please do not use it for illegal purposes.
+
+If you use it to do something illegal.The consequences have nothing to do with the author.
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
