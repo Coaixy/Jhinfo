@@ -1,4 +1,4 @@
-import { useLocalStorageState, useRequest, useSafeState, useTitle } from "ahooks"
+import { useLocalStorageState, useRequest, useTitle } from "ahooks"
 import Search from "./Search"
 import { Button, Input, Modal, ModalBody, ModalContent, ModalFooter, ModalHeader, useDisclosure } from "@nextui-org/react";
 import { useState } from "react";
