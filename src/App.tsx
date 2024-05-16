@@ -19,7 +19,7 @@ function App() {
   setInterval(() => {
     setName(localStorage.getItem('jhinfo-name') || '')
   }, 500)
-  const URL_INFO = 'https://jhc-api.nakpump.top/info/{name}/{key}'
+  const URL_INFO = 'https://jhc-api.vercel.app/info/{name}/{key}'
   const getData = (name: string) => {
     const url = URL_INFO.replace('{name}', name).replace('{key}', pwd || '')
     return fetch(url)
